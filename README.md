@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋 I'm Shuvam
 
-<!--
-**shuvam9931/Shuvam9931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Salesforce Developer
 
-Here are some ideas to get you started:
+Passionate Salesforce Developer with experience in Apex, Lightning Web Components (LWC), Aura Components, SOQL, and Salesforce customization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔹 Tech Stack
+
+- Apex
+- LWC
+- Aura Components
+- SOQL
+- Salesforce Flows
+- REST API
+- Git & GitHub
+
+---
+
+## 🔹 Currently Learning
+
+- Advanced LWC
+- Salesforce Integrations
+- Platform Developer Concepts
+
+---
+
+## 📫 Connect With Me
+
+- Portfolio: https://shuvam9931.github.io/ShuvamK/
